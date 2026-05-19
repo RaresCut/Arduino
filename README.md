@@ -1,2 +1,2 @@
 # Arduino
-Here are all of my arduino projects
+This is the memory stimulator(Symon Says-type) implemented in arduino IDE
