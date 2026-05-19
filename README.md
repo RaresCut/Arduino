@@ -1,2 +1,2 @@
 # Arduino
-Here are all of my arduino projects
+In the other branches I am sharing my arduino projects.
